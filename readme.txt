@@ -39,6 +39,9 @@ Checkout-field plugins are a repeated source of the same two security bugs, and 
 * No per-field pricing — a checkout field never changes the order total; use HDWebmobile Product Options & Add-ons for paid options
 * Text fields are capped at 255 characters
 
+= Enjoying this plugin? =
+If it helps your site, please consider [leaving an honest review on WordPress.org](https://wordpress.org/support/plugin/hdwebmobile-checkout-fields/reviews/#new-post) -- it helps other WordPress users find it. Found a problem or have an idea? Please [open a support topic](https://wordpress.org/support/plugin/hdwebmobile-checkout-fields/) first so it can be fixed.
+
 == Installation ==
 
 1. Upload the plugin files to the `/wp-content/plugins/hdwebmobile-checkout-fields` directory, or install the plugin through the WordPress plugins screen directly.
